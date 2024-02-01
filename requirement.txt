@@ -1,0 +1,11 @@
+pandas
+numpy
+openpyxl
+ifcopenshell
+lark
+pyarrow
+matplotlib
+seaborn
+scikit-learn
+pyqt6
+pyqt6-tools
